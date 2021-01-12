@@ -1,5 +1,5 @@
 # DETR 
-Welcome to my second Computer Vision project.
+Welcome to our second Computer Vision project.
 
 **Abstract.** In this work, we introduce the panoptic segmentation problem of image, its evaluation metric, and provide the SOTA automatic Detection Transformer (DETR) as the optimal solution. Then explain explicitly how does DETR performs object detection: the Transformer architecture, the process of extracted image's feature transformation to Transformer's digestible form, the queries for questioning detected object and the loss computation, also the optimization algorithm. In order to deploy panoptic segmentation, the panoptic head is added to notice each detected object and render the segmentation version of image. Finally, clarify its powerful properties by implement [COCO-2017](https://cocodataset.org/index.htm#download) pretrained model and applying it to [Wheat Head dataset](https://www.kaggle.com/c/global-wheat-detection).
 
