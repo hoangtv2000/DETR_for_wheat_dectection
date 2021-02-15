@@ -11,3 +11,5 @@ For the detail of our report, see [Approaching Object detection and Panoptic seg
 + For the implementation of COCO-2017 pretrained model. We install and demonstrate its performance by plotting the prediction (included visualization of attention mechanism). The work can be found at [Implement pretrained DETR for object detection and panoptic segmentation](https://github.com/thoconvuive/DETR/blob/main/Implement%20pretrained%20DETR%20for%20object%20detection%20and%20panoptic%20segmentation.ipynb)  
 
 + We train the pre-trained DETR model to get a prediction of wheat in Wheat Head dataset. This is a really hard problem, our training model have a acceptable result. See [Implement DETR for Wheat detection](https://github.com/thoconvuive/DETR/blob/main/Implement%20DETR%20for%20Wheat%20detection.ipynb) for full detail.
+
+**Update** : We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images. 
