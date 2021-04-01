@@ -12,4 +12,4 @@ For the detail of our report, see [Approaching Object detection and Panoptic seg
 
 + We train the pre-trained DETR model to get a prediction of wheat in Wheat Head dataset. This is a really hard problem, our training model have a acceptable result. See [Implement DETR for Wheat detection](https://github.com/thoconvuive/DETR/blob/main/Implement%20DETR%20for%20Wheat%20detection.ipynb) for full detail.
 
-**Update** : We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images. 
+**Update** : We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images, build an mAP evaluation metric and test on it.
