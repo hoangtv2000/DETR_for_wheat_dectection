@@ -13,3 +13,25 @@ For the detail of our report, see [Approaching Object detection and Panoptic seg
 + We train the pre-trained DETR model to get a prediction of wheat in Wheat Head dataset. This is a really hard problem, our training model have a acceptable result. See [Implement DETR for Wheat detection](https://github.com/thoconvuive/DETR/blob/main/Implement%20DETR%20for%20Wheat%20detection.ipynb) for full detail.
 
 **Update** : We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images, build an mAP evaluation metric and test on it.
+**Update 2** : We add the code-only version of [Wheat head dataset EDA](https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/wheat_head_EDA.ipynb). You can try yourself by running the script. 
+
+## Result
+
+**Object detection of wheat in Wheat Head dataset**
+
+<p float="left">
+  <img src="https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/results/res1.jpg" />
+  <img src="https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/results/res2.jpg" /> 
+  <img src="https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/results/res3.jpg" width="273" />
+</p>
+
+**Our mAP scores**
+
+|No. image| AP       |No. image| AP   |
+|-------- |----------|---------|------|
+|1        | 0.3125   |6        |0.1363|
+|2        | 0.4195   |7        |0.4545|
+|3        | 0.4394   |8        |0.4695|
+|4        | 0.5397   |9        |0.5121|
+|5        | 0.1735   |10       |0.3123|
+|**mAP**  | **0.3769**              |||
