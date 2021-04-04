@@ -5,9 +5,9 @@ Welcome to our Computer Vision project.
 
 **Keywords**: detection, segmentation, detr, global-wheat-detection.
 
-For the detail of our report, see [Approaching Object detection and Panoptic segmenation problem by DETR](https://github.com/thoconvuive/DETR/blob/main/DETR.pdf)
+:star: For the detail of our report, see [Approaching Object detection and Panoptic segmenation problem by DETR](https://github.com/thoconvuive/DETR/blob/main/DETR.pdf)
 
-Slide of report can be found [here]()
+:star: Slide of report can be found [here]()
 
 # Notebooks
 + For the implementation of COCO-2017 pretrained model. We install and demonstrate its performance by plotting the prediction (included visualization of attention mechanism). The work can be found at [Implement pretrained DETR for object detection and panoptic segmentation](https://github.com/thoconvuive/DETR/blob/main/Implement%20pretrained%20DETR%20for%20object%20detection%20and%20panoptic%20segmentation.ipynb)  
