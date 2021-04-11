@@ -9,6 +9,9 @@ Welcome to our Computer Vision project.
 
 :star: Slide of report can be found [here]()
 
+:star: We add the code-only version of [Wheat head dataset EDA](https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/wheat_head_EDA.ipynb). You can try yourself by running the script. 
+
+
 # Notebooks
 + For the implementation of COCO-2017 pretrained model. We install and demonstrate its performance by plotting the prediction (included visualization of attention mechanism). The work can be found at [Implement pretrained DETR for object detection and panoptic segmentation](https://github.com/thoconvuive/DETR/blob/main/Implement%20pretrained%20DETR%20for%20object%20detection%20and%20panoptic%20segmentation.ipynb)  
 
@@ -16,7 +19,6 @@ Welcome to our Computer Vision project.
 
 **Update** : We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images, build an mAP evaluation metric and test on it.
 
-**Update 2** : We add the code-only version of [Wheat head dataset EDA](https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/wheat_head_EDA.ipynb). You can try yourself by running the script. 
 
 ## Result
 
