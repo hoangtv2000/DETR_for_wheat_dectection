@@ -7,7 +7,7 @@ Welcome to our Computer Vision project.
 
 :star: For the detail of our report, see [Approaching Object detection and Panoptic segmenation problem by DETR](https://github.com/thoconvuive/DETR/blob/main/DETR.pdf).
 
-:star: Slide of report can be found [here](https://drive.google.com/file/d/1KfuVEZv87EjrwsldtUV7zLByurOCXSgy/view?usp=sharing).
+:star: Slide of report can be found [here](https://drive.google.com/file/d/19tyKCkgeqips8aau7qrMK5KpwkJbEFOG/view?usp=sharing).
 
 :star: We add the code-only version of [Wheat head dataset EDA](https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/wheat_head_EDA.ipynb). You can try yourself by running the script. 
 
