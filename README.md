@@ -17,7 +17,10 @@ Welcome to our Computer Vision project.
 
 + We train the pre-trained DETR model to get a prediction of wheat in Wheat Head dataset. This is a really hard problem, our training model have a acceptable result. See [Implement DETR for Wheat detection](https://github.com/thoconvuive/DETR/blob/main/Implement%20DETR%20for%20Wheat%20detection.ipynb) for full detail.
 
-**Update** : We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images, build an mAP evaluation metric and test on it.
+### Update
++ We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images, build an mAP evaluation metric and test on it.
++ We train a new DETR by freezing pre-trained model for wheat detection task above, sadly it got worse result (evaluate by mAP) :sweat_smile:
+
 
 
 ## Result
