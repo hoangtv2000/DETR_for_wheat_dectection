@@ -19,7 +19,7 @@ Welcome to our Computer Vision project.
 
 ### Update
 + We add [hand-craft annotation](https://github.com/thoconvuive/DETR/blob/main/_annotations.csv) of the test images, build an mAP evaluation metric and test on it.
-+ We train a new DETR by freezing pre-trained model for wheat detection task above, sadly it got worse result (evaluate by mAP) :sweat_smile:
++ We train a new DETR by freezing pre-trained backbone (the whole backbone/part of the backbone) for wheat detection task above, sadly it got worse result (evaluate by mAP) :sweat_smile:. So we keep the best model as the un-frozen model.
 
 
 
@@ -35,13 +35,13 @@ Welcome to our Computer Vision project.
 
 **Our mAP scores**
 
-Result on **confident threshold**: **0.6**
+Result on **confident threshold**: **0.9**
 
 |No. image| AP       |No. image| AP   |
 |-------- |----------|---------|------|
-|1        | 0.3125   |6        |0.1363|
-|2        | 0.4195   |7        |0.4545|
-|3        | 0.4394   |8        |0.4695|
-|4        | 0.5397   |9        |0.5121|
-|5        | 0.1735   |10       |0.3123|
-|**mAP**  | **0.3769**              |||
+|1        |  0.345   |6        |0.148|
+|2        |  0.467   |7        |0.636|
+|3        |  0.431   |8        |0.407|
+|4        |  0.529   |9        |0.514|
+|5        |  0.391   |10       |0.493|
+|**mAP**  | **0.4365**              |||
