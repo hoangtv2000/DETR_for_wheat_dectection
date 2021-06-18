@@ -34,6 +34,7 @@ Welcome to our Computer Vision project.
 </p>
 
 **Our mAP scores**
+Result on confident threshold: 0.6
 
 |No. image| AP       |No. image| AP   |
 |-------- |----------|---------|------|
