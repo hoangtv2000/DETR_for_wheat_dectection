@@ -9,7 +9,7 @@ Welcome to our Computer Vision project.
 
 :star: Slide of report can be found [here](https://drive.google.com/file/d/1DoShNewMkd-OZGczjzT4_7upnmFvRmgU/view?usp=sharing).
 
-:star: Pre-trained model can be found [here](https://www.kaggle.com/tranviethoang/best-model)
+:star: Pre-trained model can be found [here](https://www.kaggle.com/tranviethoang/best-model).
 
 :star: We add the code-only version of [Wheat head dataset EDA](https://github.com/hoangtv2000/DETR_for_wheat_dectection/blob/main/wheat_head_EDA.ipynb). You can try yourself by running the script. 
 
