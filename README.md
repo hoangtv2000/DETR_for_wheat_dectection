@@ -7,7 +7,7 @@ Welcome to our Computer Vision project.
 
 :star: For the detail of our report, see [Approaching Object detection and Panoptic segmenation problem by DETR](https://github.com/thoconvuive/DETR/blob/main/DETR.pdf).
 
-:star: Slide of report can be found [here](https://drive.google.com/file/d/1DoShNewMkd-OZGczjzT4_7upnmFvRmgU/view?usp=sharing).
+:star: Slide of report can be found [here](https://docs.google.com/presentation/d/1KwgIYg5b5bM0LvTm2xkX046GSgFxpU45/edit?usp=sharing&ouid=114052551064589379844&rtpof=true&sd=true).
 
 :star: Pre-trained model can be found [here](https://www.kaggle.com/tranviethoang/best-model).
 
